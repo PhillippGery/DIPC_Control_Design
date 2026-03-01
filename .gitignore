@@ -1,0 +1,39 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mlx~
+*.slxc
+
+# Simulink cache
+slprj/
+
+# MATLAB build artifacts
+*.mex*
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# Large binary/video outputs
+*.mp4
+*.avi
+*.mj2
+
+# Saved results (regenerate by running scripts)
+*_Results.mat
+*_Matrix.mat
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+
+# PDF submissions (not source)
+*_Submission.pdf
+*_Final.pdf
+*_Derv.pdf
+*_Mat.pdf
+FunWork1_Derv.aux
+FunWork1_Derv.log
+FunWork1_Derv.synctex.gz
+
+# Sample solutions (not your work)
+FW2_Sample_Solution*
